@@ -1,3 +1,5 @@
+//if , else if and else
+
 #include<stdio.h>
 
 int main(){
