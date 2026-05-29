@@ -1,7 +1,7 @@
 //_Logical_Operators
 
 //Logical operators are used to combine and evaluate conditions. 
-//They are commonly used in multiple decision-making statements and loops.
+//They are commonly used in multiple decision-making statements like loops and if else statement.
 
 // && this and both of them must need to be true
 // || this logical operator or one of them must need to be true
