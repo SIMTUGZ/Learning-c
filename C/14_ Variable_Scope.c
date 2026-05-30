@@ -3,7 +3,7 @@
 // GLOBAL SCOPE
 // This variable is declared outside of all functions.
 // It can be accessed and modified by ANY function below it.
-int global_modifier = 2; 
+int global_modifier = 2;  //this is example of global scope
 
 int add(int x, int y){
     // LOCAL SCOPE (inside add)
