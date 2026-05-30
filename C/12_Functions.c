@@ -3,9 +3,7 @@
 #include<stdio.h>
 #include<string.h>
 
-int main(){
-
-    //Funcion (parameters)
+ //Funcion (parameters)
     /*
   Parameters must have a data type.
   Parameter names can be changed,
@@ -18,6 +16,8 @@ int main(){
         printf("Your age is %d \n",age);
         
     }
+
+int main(){
     
     int age;
     char name[40];
