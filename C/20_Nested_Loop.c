@@ -15,8 +15,8 @@ int main(){
     printf("Input number of radius: ");
     scanf("%d",&r);
 
-    for(int i = 0; i < c; i++){//column
-        for(int j = 0; j < r ; j++){ //row
+    for(int i = 0; i < c; i++){//column cycle \n
+        for(int j = 0; j < r ; j++){ //row print 0123456789
             //the logic of nested loop the iner part will be exicuted first and the outer layer will be exicuted and if the condition is ok it will return back to the inner loop
                                      
             printf("*");
