@@ -2,6 +2,7 @@
 
 // int array[5] = {0};  this example of array with element zero
 
+
 #include<stdio.h>
 
 void OddEven();// Prototype Function 
