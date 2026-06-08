@@ -1,6 +1,6 @@
 // This is example of multiple input Array
 
-// int array[5] = {0};  this example of array with element zero
+// int array[5] = {0};  this is example of 1d array
 
 #include<stdio.h>
 
