@@ -3,9 +3,11 @@
 #include<stdio.h>
 
 int main(){
-    
-    int arr[2][4];
-    
+
+    //This is Array a 2d array 
+    int arr[2][4]; //row and collomn
+
+    //the format of multiInputArray
     for(int i = 0; i < 2; i++){
         for(int j = 0; j < 4; j++){
             printf("Input array[%d][%d]: ",i,j);
