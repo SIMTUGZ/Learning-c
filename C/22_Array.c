@@ -6,7 +6,7 @@ int main(){
     
     //basic example of Array
     // 0  1  2   3   4  this is call elements // 0  1  2  3   4  <- These are called "indexes" (the positions)
-    int numbers[] = {10 ,9 ,8 ,7 , 6};
+    int numbers[] = {10 ,9 ,8 ,7 , 6};  //this is example of 1D Array
     char ch[] = {'A','B','C','D'};
     char name[] = "SIMTUGZ"; //this string is a array of character each character is represent as a element
     
