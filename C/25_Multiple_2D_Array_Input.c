@@ -1,4 +1,4 @@
-//This is example of multiple input of 2d Array
+//This is example of multiple input of 2d Array 
 
 #include<stdio.h>
 
@@ -8,6 +8,7 @@ int main(){
     int arr[2][4]; //row and collomn
 
     //the format of multiInputArray
+    //using the nested loop
     for(int i = 0; i < 2; i++){
         for(int j = 0; j < 4; j++){
             printf("Input array[%d][%d]: ",i,j);
