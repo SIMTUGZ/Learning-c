@@ -12,8 +12,8 @@ int main(){
     
     printf("Direct data value: %d \n",number);
     printf("It will give the data location: %p \n",&number);
-    printf("It will give the data location: %p \n",&number);
-    printf("We print address: %d \n",ptr);//this is base 10 format of data
+    printf("It will give the data location: %p \n",&number); //hexadecimal address this is recommended one base 16
+    printf("We print address: %d \n",ptr);//this is base 10 format of data ok but in base 10 address format
     printf("We print address: %d \n",&ptr);
     printf("It will print the pointed data: %d \n",*ptr);
     
