@@ -55,3 +55,34 @@ void Main(int* Age){
     
     
 }
+
+
+//Additional code example
+
+#include<stdio.h>
+
+void OddEven(int* ptrNum);
+
+int main(){
+    
+    int number = 0;
+    int* ptrNum = &number;
+    
+    printf("Input number: ");
+    scanf("%d",&number);
+    
+    OddEven(ptrNum);
+    
+    return 0;
+}
+
+
+void OddEven(int* ptrNum){
+    
+    if((*ptrNum) % 2 == 0){
+        printf("Even %d \n",*ptrNum);
+        
+    }else{
+        printf("odd");
+    }
+}
