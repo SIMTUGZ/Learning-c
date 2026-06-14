@@ -1,5 +1,9 @@
 //the pointer is use to pass data in the address insted creating a new brach it will make the code 
 
+// int * this * is dreference operator 
+// int* var = &var this is &address locating and
+
+
 #include<stdio.h>
 
 int main(){
@@ -18,6 +22,35 @@ int main(){
     printf("It will print the pointed data: %d \n",*ptr);
     
     int* p = &*ptr; //this is example trasfering data pointer to pointer
+
+
+    //example code
+
+    #include<stdio.h>
+
+void Main(int* Age);
+
+
+int main(int* Age){
+        int age = 0;
+        int* pAge = &age;
+        
+        printf("Input age: ");
+        scanf("%d",&age);
+        
+        Main(pAge); //same logic
+        
+        printf("%d",*pAge); //this one no need to use for return
+        
+    
+    return 0;
+}
+
+void Main(int* Age){
+    (*Age)++; // you need to close the pointer before you add operation
+    
+    
+}
     
     
     
