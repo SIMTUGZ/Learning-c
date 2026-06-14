@@ -23,8 +23,12 @@ int main(){
     
     int* p = &*ptr; //this is example trasfering data pointer to pointer
 
+    return 0;
+}
 
-    //example code
+
+
+ //example code
 
     #include<stdio.h>
 
@@ -50,9 +54,4 @@ void Main(int* Age){
     (*Age)++; // you need to close the pointer before you add operation
     
     
-}
-    
-    
-    
-    return 0;
 }
