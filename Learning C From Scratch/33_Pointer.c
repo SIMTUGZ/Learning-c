@@ -126,3 +126,47 @@ void Average(int* ptrSize , int* ptrArray){
     
     printf("Average: %d\n", total / *ptrSize);  
 }
+
+
+//odd even Array
+
+#include<stdio.h>
+
+void OddEven(int* ptrSize, int* ptrArray);
+
+int main(){
+    
+    int size = 0;
+    int* ptrSize =  &size;
+    
+    printf("Input size: ");
+    scanf("%d",&size);
+    
+    
+    int array[size];
+    int* ptrArray = array;
+    
+    for(int i = 0; i < *ptrSize ; i++){
+         printf("Input number: ");
+        scanf("%d",(ptrArray + i));
+    }
+    
+    OddEven(ptrSize, ptrArray);
+    
+    
+    return 0;
+}
+
+void OddEven(int* ptrSize, int* ptrArray){
+    
+    for(int i = 0; i < *ptrSize ; i++){
+        if((*ptrArray) % 2 == 0){
+            printf("This is even %d ",(*ptrArray ));
+            
+        }else{
+             printf("This is odd %d ",(*ptrArray));
+        }
+        
+    }
+    
+}
