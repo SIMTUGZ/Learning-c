@@ -86,3 +86,43 @@ void OddEven(int* ptrNum){
         printf("odd");
     }
 }
+
+
+//Total average example in pointer
+
+#include<stdio.h>
+
+void Average(int* ptrSize , int* ptrArray);
+
+int main(){
+    
+    int size;
+    int* ptrSize = &size;
+    
+    
+    printf("Input size: ");
+    scanf("%d",&size); // input to size
+    
+    int array[size];
+    int* ptrArray = array;
+    
+    for(int i = 0; i < *ptrSize; i++){
+        printf("Input number: ");
+        scanf("%d",(ptrArray + i)); //scanf logic for array loop
+        
+    }
+    
+    Average(ptrSize , ptrArray);
+    
+    return 0;
+}
+
+void Average(int* ptrSize , int* ptrArray){
+    int total = 0;
+    for(int i = 0; i < *ptrSize; i++){
+        total += ptrArray[i];
+        
+    }
+    
+    printf("Average: %d\n", total / *ptrSize);  
+}
