@@ -13,7 +13,7 @@ int main(){
     printf("Input how many elements you want: ");
     scanf("%d",&number);
     
-    char* grades = malloc(number* sizeof(char)); //we calculate how mucdata will be allocated 
+    char* grades = malloc(number* sizeof(char)); //we calculate how mucdata will be allocated pr bites
     
     // Stack // this on in pre build data using stact example int num = 8;
     // Heap //in malloc we barrow data here
