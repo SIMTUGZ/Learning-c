@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h> //this is use for rand() and malloc();
 
+//In malloc or memory allocation we pass number of bytes
+
 
 int main(){
     
