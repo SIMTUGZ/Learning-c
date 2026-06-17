@@ -1,4 +1,4 @@
-this is use to use mathematical concept in coding
+This is use to use mathematical concept in coding
 
 <math.h>
 
