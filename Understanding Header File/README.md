@@ -11,7 +11,7 @@ Welcome to my C programming learning journey! This repository documents my progr
 Header files are essential building blocks in C programming. They provide pre-built functions and utilities that make coding easier and more efficient. Below are the key header files I'm studying:
 
 
-## 🎯 Learning Progress
+##  Learning Progress
 
 I'm continuously expanding my knowledge of C as I progress through my college coursework and personal projects. Each header file section includes:
 - Clear explanations of what each function does
@@ -20,7 +20,7 @@ I'm continuously expanding my knowledge of C as I progress through my college co
 
 ---
 
-## 💡 Tips for Learning C
+##  Tips for Learning C
 
 1. **Practice regularly** - Write small programs using each function
 2. **Read error messages** - They help you debug and learn
@@ -29,7 +29,7 @@ I'm continuously expanding my knowledge of C as I progress through my college co
 
 ---
 
-## 🚀 Next Steps
+##  Next Steps
 
 - [ ] Add practical code examples for each header file
 - [ ] Create sample programs demonstrating header file usage
