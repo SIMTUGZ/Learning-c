@@ -1,5 +1,7 @@
- A standard C library header file that provides declarations for general-purpose functions,
- including dynamic memory management, process control, integer arithmetic, and data conversion.
+A standard C library header file that provides declarations for general-purpose functions,
+including dynamic memory management, process control, integer arithmetic, and data conversion.
+
+<stdlib.h>
 
     Memory Management: Functions like malloc(), calloc(), realloc(), and 
     free() allow for dynamic allocation and deallocation of memory at runtime.
