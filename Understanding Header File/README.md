@@ -28,5 +28,5 @@ I'm continuously expanding my knowledge of C as I progress through my college co
 4. **Start simple** - Master basics before moving to complex concepts
 ---
 
-**Last Updated**: 2026-06-17  
-**Status**: 🔄 Ongoing Learning
+**Last Updated**: 2026
+**Status**: Ongoing Learning
