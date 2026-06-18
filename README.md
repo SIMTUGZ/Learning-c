@@ -1,4 +1,4 @@
-# Learning C 💻
+# Learning C 
 
 This is my learning space for C programming. I'm teaching myself the basics and building projects as I go.
 
