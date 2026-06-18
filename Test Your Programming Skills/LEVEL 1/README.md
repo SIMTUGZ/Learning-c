@@ -10,9 +10,9 @@ The program should display the result with two decimal places.
 *Properly handle string input using fgets and remove the trailing newline character.
 *Display the collected information in a clear format.
 
-       Input name: John Doe
-       Input program and Year: BSIT 2
-       Input Contact Number: 912345678
+       Input name: SIM TUGZ
+       Input program and Year: BSCPE 1
+       Input Contact Number: 912345678 //FAKE NUMBER
        Input Address: Mandaue City
 
        Name: John Doe
