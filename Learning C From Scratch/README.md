@@ -2,7 +2,7 @@
 
 ## Focus: Basic C Syntax
 
-This repository documents my progress in learning the C programming language, with a strong focus on understanding and mastering the fundamentals of C syntax.
+Learning C is about building a strong foundation in its syntax and concepts variables, control structures, functions, pointers, and memory management. This repository provides guidance and practice, but true mastery often comes from exploring, experimenting, and sometimes teaching yourself through trial and error. By combining structured resources with self‑driven learning, you’ll gain the confidence to write efficient and reliable C programs.
 
 ### Topics Covered
 - Variables and data types
