@@ -29,4 +29,5 @@ I'm continuously expanding my knowledge of C as I progress through my college co
 ---
 
 **Last Updated**: 2026
+
 **Status**: Ongoing Learning
