@@ -1,10 +1,10 @@
-# Learning C Programming 📚
+# Learning C Programming 
 
 Welcome to my C programming learning journey! This repository documents my progress and understanding of the C language as I learn it through college and self-study. Here, you'll find explanations, examples, and notes on fundamental C concepts.
 
 ---
 
-## 📖 Contents
+## Contents
 
 ### Understanding Header Files
 
