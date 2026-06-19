@@ -4,7 +4,7 @@ The program should display the result with two decimal places.
        Input Inches: 5
        5.00 inch is 12.70 cm
 
-2.Write a C program that collects and displays basic student information. The program should:
+2. Write a C program that collects and displays basic student information. The program should:
 
 - Ask the user to input their name, program and year, contact number, and address.
 
