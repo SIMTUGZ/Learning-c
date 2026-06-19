@@ -6,11 +6,11 @@ The program should display the result with two decimal places.
 
 2.Write a C program that collects and displays basic student information. The program should:
 
-*Ask the user to input their name, program and year, contact number, and address.
+-Ask the user to input their name, program and year, contact number, and address.
 
-*Properly handle string input using fgets and remove the trailing newline character.
+-Properly handle string input using fgets and remove the trailing newline character.
 
-*Display the collected information in a clear format.
+-Display the collected information in a clear format.
 
        Input name: SIM TUGZ
        Input program and Year: BSCPE 1
