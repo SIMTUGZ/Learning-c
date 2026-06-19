@@ -17,7 +17,7 @@ The program should display the result with two decimal places.
        Input Contact Number: 912345678 //FAKE NUMBER
        Input Address: Mandaue City
 
-       Name: John Doe
-       Program and Year: BSIT 2
+       Name: SIM TUGZ
+       Program and Year: BSCPE 1
        Contact Number: 912345678
        Address: Mandaue City
