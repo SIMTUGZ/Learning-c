@@ -21,3 +21,7 @@ The program should display the result with two decimal places.
        Program and Year: BSCPE 1
        Contact Number: 912345678
        Address: Mandaue City
+
+  3. Write a C program that accepts an employee's ID, total work hours in a month in a month and
+  the amount he received per hour. Print ID and salary (with two decimal places) of the employee for
+  a particular month.
