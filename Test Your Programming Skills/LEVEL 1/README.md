@@ -25,3 +25,9 @@ The program should display the result with two decimal places.
 3. Write a C program that accepts an employee's ID, total work hours in a month in a month and
 the amount he received per hour. Print ID and salary (with two decimal places) of the employee for
 a particular month.
+
+       Input ID Number: 24241242
+       Input work hours: 8
+       Input salary: 2
+       Employees ID:  24241242 
+       Salary = Php 496.00
