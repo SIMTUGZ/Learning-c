@@ -9,6 +9,7 @@ The program should display the result with two decimal places.
 *Ask the user to input their name, program and year, contact number, and address.
 
 *Properly handle string input using fgets and remove the trailing newline character.
+
 *Display the collected information in a clear format.
 
        Input name: SIM TUGZ
