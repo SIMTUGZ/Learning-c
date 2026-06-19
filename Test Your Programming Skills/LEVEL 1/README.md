@@ -1,6 +1,8 @@
 1. Write a C program that asks the user to input a length in inches and then converts it into centimeters.
 The program should display the result with two decimal places.
 
+### Sample Input
+
        Input Inches: 5
        5.00 inch is 12.70 cm
 
@@ -11,6 +13,8 @@ The program should display the result with two decimal places.
 - Properly handle string input using fgets and remove the trailing newline character.
 
 - Display the collected information in a clear format.
+
+### Sample Input
 
        Input name: SIM TUGZ
        Input program and Year: BSCPE 1
@@ -26,8 +30,30 @@ The program should display the result with two decimal places.
 the amount he received per hour. Print ID and salary (with two decimal places) of the employee for
 a particular month.
 
+### Sample Input
+
        Input ID Number: 24241242
        Input work hours: 8
        Input salary: 2
        Employees ID:  24241242 
        Salary = Php 496.00
+
+4. Write a C program that calculates the Euclidean distance between two points in a 2D plane.
+
+- The program should prompt the user to input the coordinates \(X_1, Y_1\) and \(X_2, Y_2\).  
+- It should then compute the distance using the formula:
+- Finally, display the result with two decimal places.
+
+### Sample Input
+
+       Input X1: 2
+       Input Y1: 3
+       Input X2: 5
+       Input Y2: 7
+
+### Expected Output
+
+The distance of two points is 5.00
+
+
+
